@@ -7,3 +7,11 @@
   display: inline-block;
   text-align: center;
 }
+
+.header-list {
+  position: relative;
+}
+
+.badge[:hover] {
+  display: show;
+}
