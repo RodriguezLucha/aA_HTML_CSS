@@ -1,1 +1,9 @@
 /* PHASE 7: Online */
+.online {
+  position: absolute;
+  transform: rotateZ(20deg) skewX(10deg);;
+   box-shadow: 5px 10px lawngreen;
+   font-family: cursive, Times, serif;
+   font-weight: 3;
+   font-size: x-large;
+}
